@@ -1,0 +1,2 @@
+-BUG#1: delete route does not have an await user.delete function.
+-BUG#2: login route is not properly awaited.
